@@ -31,7 +31,13 @@
 - I want tp use my Capstone project as a basis for revising many of the ML concepts that I have already learned.
 - The Capstone is based on the City of Toronto Parking Ticket violation dataset
 
-## Sample Day
-- I have learned list and tuple in Pyhton using this tutorial: https://www.afternerd.com/blog/difference-between-list-tuple/
-- I have learned about basic docker commands from this article: https://rominirani.com/docker-tutorial-series-part-2-basic-commands-baaf70807fd3
-- I have learned basic python from think link: https://www.youtube.com/watch?v=N4mEzFDjqtA
+## July 2 - Building up my information areas and coding areas
+- I set up the key areas to work through during the next week in addition to the basics
+- Basis will be the Queen St parking tickets dataset
+- Geolocation
+- Time Series 
+
+## Sample Day - 
+- Revised list and tuples using this tutorial: https://www.afternerd.com/blog/difference-between-list-tuple/
+- Revised  basic docker commands from this article: https://rominirani.com/docker-tutorial-series-part-2-basic-commands-baaf70807fd3
+- Reviewed basic python from think link: https://www.youtube.com/watch?v=N4mEzFDjqtA
