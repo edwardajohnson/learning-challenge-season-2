@@ -37,6 +37,11 @@
 - Geolocation
 - Time Series 
 
+## July 4 - Building a blockchain in Python 
+- Since I have blockchain knowledge it was interesting to go through the code for building a blockchain in Python: https://www.ibm.com/developerworks/cloud/library/cl-develop-blockchain-app-in-python/index.html
+
+
+
 ## Sample Day for reference .... Do not use
 - Revised list and tuples using this tutorial: https://www.afternerd.com/blog/difference-between-list-tuple/
 - Revised  basic docker commands from this article: https://rominirani.com/docker-tutorial-series-part-2-basic-commands-baaf70807fd3
