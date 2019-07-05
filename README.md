@@ -41,6 +41,18 @@
 - Since I have blockchain knowledge it was interesting to go through the code for building a blockchain in Python: https://www.ibm.com/developerworks/cloud/library/cl-develop-blockchain-app-in-python/index.html
 
 
+## July 5 - Learning through the blockchain in Python tutorial
+- Following on from July 4th and cloning the repository : https://github.com/satwikkansal/python_blockchain_app
+- Introduction and usage of Flask 
+- Set up on own blockchain and mining environment and create multiple nodes 
+- Hashing and chaining in Python
+
+
+
+
+
+
+
 
 ## Sample Day for reference .... Do not use
 - Revised list and tuples using this tutorial: https://www.afternerd.com/blog/difference-between-list-tuple/
